@@ -1,0 +1,78 @@
+///////////////////////////////////////STATIONS//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Majlis Park
+Azadpur
+Shalimar Bagh
+Netaji Subhash Place
+Shakurpur
+Punjabi Bagh West
+ESI Hospital
+Rajouri Garden
+Mayapuri
+Naraina Vihar
+Delhi Cantt
+Durgabai Deshmukh South Campus
+Sir Vishweshwaraiah Moti Bagh
+Bhikaji Cama Place
+Sarojini Nagar
+INA
+South Extension
+Lajpat Nagar
+Vinobapuri
+Ashram
+Hazrat Nizamuddin
+Mayur Vihar Phase 1
+Mayur Vihar Pocket 1
+Trilokpuri-Sanjay Lake
+East Vinod Nagar-Mayur Vihar-II
+Mandawali-West Vinod Nagar
+IP Extension
+Anand Vihar
+Karkarduma
+Karkarduma Court
+Krishna Nagar
+East Azad Nagar
+Welcome
+Jaffrabad
+Maujpur-Babarpur
+Gokulpuri
+Johri Enclave
+Shiv Vihar
+
+/////////////////////////////////////////////////////STATIONS CONNECTIONS///////////////////////////////////////////////////////////////////////////////////////Majlis Park, Azadpur
+Azadpur,Shalimar Bagh,3
+Shalimar Bagh,Netaji Subhash Place,3
+Netaji Subhash Place,Shakurpur,3
+Shakurpur,Punjabi Bagh West,3
+Punjabi Bagh West,ESI Basaidarapur,3
+ESI Basaidarapur,Rajouri Garden,2
+Rajouri Garden,Mayapuri,3
+Mayapuri,Naraina Vihar,3
+Naraina Vihar,Delhi Cantt,3
+Delhi Cantt,Durgabai Deshmukh South Campus,5
+Durgabai Deshmukh South Campus,Sir Vishweshwaraiah Moti Bagh,3
+Sir Vishweshwaraiah Moti Bagh,Bhikaji Cama Place,3
+Bhikaji Cama Place,Sarojini Nagar,2
+Sarojini Nagar,Dilli Haat-INA,2
+South Extension,Lajpat Nagar,2
+Lajpat Nagar,Vinobapuri,2
+Vinobapuri,Ashram,3
+Ashram,Sarai Kale khan Nizamuddin,3
+Sarai Kale khan Nizamuddin,Mayur Vihar Phase 1,2
+Mayur Vihar Phase 1,Mayur Vihar Pocket 1,2
+Mayur Vihar Pocket 1,Trilokpuri-Sanjay Lake,6
+Trilokpuri-Sanjay Lake,East Vinod Nagar-Mayur Vihar-II,2
+East Vinod Nagar-Mayur Vihar-II,Mandawali-West Vinod Nagar,2
+Mandawali-West Vinod Nagar,IP Extension,3
+IP Extension,Anand Vihar,4
+Anand Vihar,Karkarduma,2
+Karkarduma,Karkarduma Court,2
+Karkarduma Court,Krishna Nagar,3
+Krishna Nagar,East Azad Nagar,2
+East Azad Nagar,Welcome,2
+Welcome,Jaffrabad,3
+Jaffrabad,Maujpur-Babarpur,2
+Maujpur-Babarpur,Gokulpuri,2
+Gokulpuri,Johri Enclave,3
+Johri Enclave,Shiv Vihar,2
+Majlis Park,Azadpur,4
+Dill Haat-INA,South Extension,2

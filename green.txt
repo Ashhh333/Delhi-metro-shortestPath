@@ -1,0 +1,45 @@
+Ashok Park Main
+Punjabi Bagh
+Shivaji Park
+Madipur
+Paschim Vihar East
+Paschim Vihar West
+Peera Garhi
+Udyog Nagar
+Surajmal Stadium
+Nangloi
+Nangloi Railway Station
+Rajdhani Park
+Mundka
+Mundka Industrial Area
+Ghevra Metro Station
+Tikri Kalan
+Tikri Border
+Pandit Shree Ram Sharma
+Bahadurgarh City
+Brigadier Hoshiar Singh
+Satguru Ram Singh Marg
+////////////////////////////////////CONNECTION//////////////////////////
+Inderlok, Ashok Park Main,3
+Ashok Park Main, Punjabi Bagh,2
+Punjabi Bagh, Punjabi Bagh West,2
+Punjabi Bagh West, Shivaji Park,2
+Shivaji Park, Madipur,2
+Madipur, Paschim Vihar East,2
+Paschim Vihar East, Paschim Vihar West,2
+Paschim Vihar West, Peeragarhi,2
+Peeragarhi, Udyog Nagar,2
+Udyog Nagar, Surajmal Stadium,2
+Surajmal Stadium, Nangloi,2
+Nangloi, Nangloi Railway Station,2
+Nangloi Railway Station, Rajdhani Park,2
+Rajdhani Park, Mundka,2
+Mundka, Mundka Industrial Area,2
+Mundka Industrial Area, Ghevra Metro Station,3
+Ghevra Metro Station, Tikri Kalan,3
+Tikri Kalan, Tikri Border,3
+Tikri Border, Pandit Shree Ram Sharma,2
+Pandit Shree Ram Sharma, Bahadurgarh City,2
+Bahadurgarh City, Brigadier Hoshiar Singh,3
+Ashok Park Main, Satguru Ram Singh Marg,3
+Satguru Ram Singh Marg, Kirti Nagar,2
