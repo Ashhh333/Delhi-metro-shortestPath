@@ -3,7 +3,7 @@ using namespace std;
 const int INF = numeric_limits<int>::max();
 const int NUM_STATIONS = 195;
 //*************************************DIJSKTRA IMPLEMENTATION******************************************************************************/////////
-void IMPLEMENT_dijsktra(int source,int destination,vector<int>&Shortest_Route,int &Time,vector<vector<int>>& distanceMatrix,unordered_map<int,int>&lineMap){
+vector<string> IMPLEMENT_dijsktra(int source,int destination,vector<int>&Shortest_Route,int &Time,vector<vector<int>>& distanceMatrix,unordered_map<int,int>&lineMap){
 priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
 vector<int>Distance(NUM_STATIONS,INF);
  vector<int>Path(NUM_STATIONS,0);
@@ -53,7 +53,6 @@ i=Path[i];
 }
 reverse(Shortest_Route.begin(),Shortest_Route.end());
 Time=Distance[destination];
-}
 
 //***********************************************************************************************************************************************************//
 //**************************************LOADING STATIONS FROM STATIONS.CSV*********************************************************************/////
@@ -144,8 +143,8 @@ int main(){
 
 
        loadConnections("connections.csv", distanceMatrix, stationIndexMap);
-      string source="Dwarka Mor";
-      string destination="Shahdara";
+      string source="Palam";
+      string destination="Central Secretariat";
       int source_id=stationIndexMap[source];
       int dest_id=stationIndexMap[destination];
        int Time;
